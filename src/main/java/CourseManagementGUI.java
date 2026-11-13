@@ -896,13 +896,17 @@ public class CourseManagementGUI extends Application {
         // BUTTON STYLING
         // ==========================================
 
-        String buttonStyle =
-            "-fx-background-color: #7546B5;" +
-            "-fx-text-fill: white;" +
-            "-fx-font-size: 14px;" +
-            "-fx-background-radius: 10;" +
-            "-fx-padding: 12 20 12 20;" +
-            "-fx-cursor: hand;";
+        // ==========================================
+// BUTTON STYLING
+// ==========================================
+
+String buttonStyle =
+    "-fx-background-color: #78689A;" +
+    "-fx-text-fill: white;" +
+    "-fx-font-size: 14px;" +
+    "-fx-background-radius: 10;" +
+    "-fx-padding: 12 20 12 20;" +
+    "-fx-cursor: hand;";
 
 
         addCourseButton.setStyle(buttonStyle);
